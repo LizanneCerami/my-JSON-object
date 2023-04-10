@@ -1,6 +1,6 @@
 myObject = {
   "full name": "Lizanne Cerami",
-  "age": "34",
+  "age": 34,
   "favorite books": [
     {
       "title": "The Perks of Being a Wallflower",
